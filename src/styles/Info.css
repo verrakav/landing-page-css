@@ -1,0 +1,19 @@
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.info-column {
+  width: 48%;
+}
+
+h2 {
+  font-size: 22px;
+  color: #333;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+}

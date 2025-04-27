@@ -2,6 +2,10 @@
 
 **Plain CSS** within a React application. The following are advantages, and disadvantages of using plain CSS for styling.
 
+## Features
+
+- Runs on port 3000
+
 ## Use Cases
 
 - Simple styling for small to medium-sized projects.

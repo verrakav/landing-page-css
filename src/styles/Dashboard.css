@@ -1,0 +1,29 @@
+.dashboard {
+  margin-top: 2rem;
+}
+
+.dashboard h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.card {
+  width: 23%;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  margin: 1.5rem;
+}
+
+.card:hover {
+  background-color: #e9ecef;
+}

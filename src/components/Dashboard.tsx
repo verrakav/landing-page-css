@@ -1,12 +1,14 @@
+import "../styles/Dashboard.css";
+
 const Dashboard = () => {
   return (
-    <section>
+    <section className="dashboard">
       <h2>Dashboard</h2>
-      <div>
-        <div>Card 1</div>
-        <div>Card 2</div>
-        <div>Card 3</div>
-        <div>Card 4</div>
+      <div className="cards">
+        <div className="card">Card 1</div>
+        <div className="card">Card 2</div>
+        <div className="card">Card 3</div>
+        <div className="card">Card 4</div>
       </div>
     </section>
   );

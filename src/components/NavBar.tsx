@@ -1,7 +1,9 @@
+import "../styles/NavBar.css";
+
 const NavBar = () => {
   return (
-    <nav>
-      <h2>CompanyName</h2>
+    <nav className="navbar">
+      <h2 className="navbar-brand">Plain CSS</h2>
     </nav>
   );
 };
